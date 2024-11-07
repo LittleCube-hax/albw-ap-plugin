@@ -2,7 +2,7 @@
 
 ## CURRENTLY THIS MUST BE RUN ON THE CUSTOM VERSION OF THE APWORLD!! You need to install the included `.pyd`/`.so` file too.
 
-1. Download the `plugin.3gx`, `albw-ap-plugin-support.apworld`, `.pyd` file (or `.so` file on non-windows) and `Luma3DS` files from [releases](https://github.com/LittlestCube/albw-ap-plugin/releases/latest).
+1. Download the `plugin.3gx`, `albw-ap-plugin-support.apworld`, `.pyd` file (or `.so` file on non-windows) from [releases](https://github.com/LittlestCube/albw-ap-plugin/releases/latest).
 
 2. Copy `plugin.3gx` to `/luma/plugins/00040000000EC300/` on your SD card.
 
